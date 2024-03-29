@@ -1,0 +1,9 @@
+*.DS_Store
+
+.vscode/
+
+myenv/
+
+**/results/*
+**/movie/*
+!.gitkeep
